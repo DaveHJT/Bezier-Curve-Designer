@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-package PACKAGE_NAME;public class Model {
-=======
+
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.event.EventHandler;
@@ -9,12 +7,9 @@ import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;
 import javafx.scene.paint.Paint;
-import javafx.scene.shape.DrawMode;
-import javafx.scene.shape.Shape;
 import javafx.scene.shape.StrokeLineCap;
 import javafx.stage.Stage;
 
-import java.awt.*;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
@@ -76,13 +71,13 @@ public class Model {
 
         // notify observers
         // notify the observers when the window is resized
-        stage.widthProperty().addListener(new ChangeListener<Number>(){
+        stage.widthProperty().addListener(new ChangeListener<Number>() {
             @Override
             public void changed(ObservableValue<? extends Number> observable, Number oldWidth, Number newWidth) {
                 notifyObservers();
             }
         });
-        stage.heightProperty().addListener(new ChangeListener<Number>(){
+        stage.heightProperty().addListener(new ChangeListener<Number>() {
             @Override
             public void changed(ObservableValue<? extends Number> observable, Number oldHeight, Number newHeight) {
                 notifyObservers();
@@ -245,7 +240,7 @@ public class Model {
                 case SELECT:
                     if (curve == selectedCurve) {
                         // record the mouse pos
-                        lastMouseX= mouseEvent.getX();
+                        lastMouseX = mouseEvent.getX();
                         lastMouseY = mouseEvent.getY();
                     }
                     break;
@@ -340,6 +335,7 @@ public class Model {
             notifyObservers();
         }
     }
+
     public void updateCurveProperties(BezierCurve curve) {
         updateCurveProperties(curve, Direction.BOTH);
     }
@@ -747,5 +743,5 @@ public class Model {
             view.updateView();
         }
     }
->>>>>>> d5eed7ed92c6d42e48bda6ae061e950156340942
+
 }

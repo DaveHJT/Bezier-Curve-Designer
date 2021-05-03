@@ -1,23 +1,14 @@
-<<<<<<< HEAD
-package PACKAGE_NAME;public class BezierTool {
-}
-=======
-import com.sun.scenario.effect.Blend;
+
 import javafx.application.Application;
 import javafx.scene.Scene;
-import javafx.scene.control.Label;
 import javafx.scene.control.Menu;
 import javafx.scene.control.MenuBar;
 import javafx.scene.control.MenuItem;
 import javafx.scene.input.*;
 import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.VBox;
-import javafx.scene.text.Font;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 
-import java.awt.*;
 import java.io.*;
 
 
@@ -215,4 +206,3 @@ public class BezierTool extends Application {
     }
 
 }
->>>>>>> d5eed7ed92c6d42e48bda6ae061e950156340942
