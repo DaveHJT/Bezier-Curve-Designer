@@ -140,7 +140,7 @@ public class BezierTool extends Application {
     private void loadFile(Model model, Stage stage) {
         // file chooser
         FileChooser fileChooser = new FileChooser();
-        fileChooser.setInitialDirectory(new File("./"));
+        fileChooser.setInitialDirectory(new File("./saves"));
         fileChooser.getExtensionFilters().addAll(
                 new FileChooser.ExtensionFilter("TXT", "*.txt")
         );
@@ -162,7 +162,7 @@ public class BezierTool extends Application {
     private void saveFile(Model model, Stage stage) {
         // file chooser
         FileChooser fileChooser = new FileChooser();
-        fileChooser.setInitialDirectory(new File("./"));
+        fileChooser.setInitialDirectory(new File("./saves"));
         fileChooser.getExtensionFilters().addAll(
                 new FileChooser.ExtensionFilter("TXT", "*.txt")
         );
