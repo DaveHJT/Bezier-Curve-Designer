@@ -3,8 +3,8 @@ BezierCurve.java
  BezierCurve$1
 DrawModes.java
  DrawModes
-DialogBox.java
- DialogBox
+BezierTool.java
+ BezierTool
 AlertBox.java
  AlertBox
 IView.java
@@ -32,5 +32,5 @@ ToolbarView.java
  ToolbarView$2
 DrawStyles.java
  DrawStyles
-BezierTool.java
- BezierTool
+DialogBox.java
+ DialogBox

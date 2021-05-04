@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<module external.linked.project.id="a3" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="a3" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../..">
+      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
-=======
-<module external.linked.project.id="a3" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" type="JAVA_MODULE" version="4" />
->>>>>>> d5eed7ed92c6d42e48bda6ae061e950156340942
