@@ -10,67 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6553de8-4ff5-4d80-92fd-8c76e4158464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/a3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/a3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/a3_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_base_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_base_mac_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_controls_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_controls_mac_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_fxml_mac_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_graphics_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_graphics_mac_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_media_mac_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/a3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/a3.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/a3.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AlertBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/BezierCurve$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/BezierCurve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/BezierTool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CanvasView$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CanvasView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ControlPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DialogBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DrawModes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DrawStyles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/IView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/PointType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ToolbarView$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ToolbarView$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ToolbarView.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/distributions/a3-1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/a3-1.0-SNAPSHOT.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/a3-1.0-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/a3-1.0-SNAPSHOT.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/a3" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/a3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/a3.bat" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/a3.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BezierTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BezierTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/a3-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/a3-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +62,12 @@
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="a3" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="distribution" type="c8890929:TasksNode$1" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -135,8 +91,8 @@
     <property name="project.structure.side.proportion" value="0.47931033" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
-  <component name="RunManager" selected="Gradle.Bezier-Curve-Designer [distTar]">
-    <configuration name="Bezier-Curve-Designer [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.Bezier-Curve-Designer [assembleDist]">
+    <configuration name="Bezier-Curve-Designer [assembleDist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -147,7 +103,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="build" />
+            <option value="assembleDist" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -199,7 +155,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Bezier-Curve-Designer [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Bezier-Curve-Designer [distZip]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -210,7 +166,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="jar" />
+            <option value="distZip" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -220,7 +176,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Bezier-Curve-Designer [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Bezier-Curve-Designer [installDist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -231,7 +187,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="run" />
+            <option value="installDist" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -243,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Bezier-Curve-Designer [distTar]" />
-        <item itemvalue="Gradle.Bezier-Curve-Designer [jar]" />
+        <item itemvalue="Gradle.Bezier-Curve-Designer [assembleDist]" />
+        <item itemvalue="Gradle.Bezier-Curve-Designer [distZip]" />
+        <item itemvalue="Gradle.Bezier-Curve-Designer [installDist]" />
         <item itemvalue="Gradle.Bezier-Curve-Designer [clean]" />
-        <item itemvalue="Gradle.Bezier-Curve-Designer [run]" />
-        <item itemvalue="Gradle.Bezier-Curve-Designer [build]" />
+        <item itemvalue="Gradle.Bezier-Curve-Designer [distTar]" />
       </list>
     </recent_temporary>
   </component>
