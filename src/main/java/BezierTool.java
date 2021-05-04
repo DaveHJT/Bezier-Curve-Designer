@@ -8,8 +8,8 @@ import javafx.scene.input.*;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
-
 import java.io.*;
+
 
 
 public class BezierTool extends Application {
