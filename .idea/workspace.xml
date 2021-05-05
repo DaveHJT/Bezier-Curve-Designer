@@ -10,7 +10,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6553de8-4ff5-4d80-92fd-8c76e4158464" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/saves/circle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/AlertBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/BezierCurve$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/BezierCurve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/BezierTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CanvasView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CanvasView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ControlPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DialogBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DrawModes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DrawStyles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/IView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/PointType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ToolbarView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ToolbarView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ToolbarView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/a3-1.0-SNAPSHOT.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/a3-1.0-SNAPSHOT.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/bin/a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/bin/a3.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/lib/a3-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/lib/javafx-base-11.0.2-mac.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/lib/javafx-base-11.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/lib/javafx-controls-11.0.2-mac.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/lib/javafx-controls-11.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/lib/javafx-fxml-11.0.2-mac.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/lib/javafx-graphics-11.0.2-mac.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/lib/javafx-graphics-11.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/install/a3/lib/javafx-media-11.0.2-mac.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/a3-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/dash-dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/dot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/draw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/erase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/thickness3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/thickness4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/thickness5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/thickness6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/a3.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +106,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="a3" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="application" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="a3" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
@@ -65,11 +121,19 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s63FGLq8lq5N11Jkil5bUJVN2Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -81,7 +145,7 @@
     <property name="project.structure.side.proportion" value="0.47931033" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
-  <component name="RunManager" selected="Gradle.Bezier-Curve-Designer [assembleDist]">
+  <component name="RunManager" selected="Gradle.Bezier-Curve-Designer [clean]">
     <configuration name="Bezier-Curve-Designer [assembleDist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -115,27 +179,6 @@
         <option name="taskNames">
           <list>
             <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="Bezier-Curve-Designer [distTar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="distTar" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -187,13 +230,34 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Bezier-Curve-Designer [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Bezier-Curve-Designer [clean]" />
+        <item itemvalue="Gradle.Bezier-Curve-Designer [run]" />
         <item itemvalue="Gradle.Bezier-Curve-Designer [assembleDist]" />
         <item itemvalue="Gradle.Bezier-Curve-Designer [distZip]" />
         <item itemvalue="Gradle.Bezier-Curve-Designer [installDist]" />
-        <item itemvalue="Gradle.Bezier-Curve-Designer [clean]" />
-        <item itemvalue="Gradle.Bezier-Curve-Designer [distTar]" />
       </list>
     </recent_temporary>
   </component>
@@ -218,5 +282,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
