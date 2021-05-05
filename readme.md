@@ -1,24 +1,60 @@
-      Project: Assignment3: Bezier Curve Drawing Tool
-      Jingtong Hu
-      20755586 j278hu
-      openjdk version "11.0.10"
-      macOS 10.15.5 (MacBook Air 2019)
-      
 
+# Bezier-Curve-Designer
+A canvas that support bezier curve drawing, with tools to modify the styles and shapes.
+ 
+## Install
+```sh
+You will need to install the following:  
+* [OpenJDK 11.0.10] or later version.  (https://www.oracle.com/java/technologies/javase-downloads.html)
+* [Gradle 6.8.1] or later version. (https://gradle.org/install/)
+```
+## Usage
+Execute the following command in the root directory.
+```sh
+$ gradle run
+```
 
-Features:
-1. Advanced drawing: drag while drawing to set the control point.
-2. Press ESC to stop the current action: select curve/ draw/ change point type.
+## Demo
+### Drawing Tool
+Instruction: Click and drag to draw each segment; press ESC to stop drawing.
+<p>
+<img src="https://github.com/DaveHJT/Bezier-Curve-Designer/blob/main/demo/Basic%20Drawing.gif?raw=true" width="600">
+</p>
+
+### Selecting&Editing Tool
+Instruction: 1. Click on the curve to select the curve; drag the curve to move it; drag the vertices and control points to chage the shape. 
+2. When a curve is selected, the style of the curve can be changed by the bottom left  style palette.
 3. Press DELETE or BACK_SPACE to delete the selected curve.
-4. If no curve is selected and it's using point type tool, it will directly switch to select tool.
-5. The curve property buttons are disabled while drawing, and other cases when they are not appropriate.
-6. Click and drag the selected curve in select mode to move the curve.
+4. Press ESC to cancel selection.
+<p>
+<img src="https://github.com/DaveHJT/Bezier-Curve-Designer/blob/main/demo/Editing.gif?raw=true" width="600">
+</p>
+
+### Erasing Tool
+Instruction: Click on the curve to delete. 
+
+### Vertex Type Tool
+Instruction: When a curve is selected, click on a vertex to swap its type between "sharp" and "smooth".
+ps: If no curve is selected and it's using point type tool, it will directly switch to select tool.
+<p>
+<img src="https://github.com/DaveHJT/Bezier-Curve-Designer/blob/main/demo/Vertex%20Type.gif?raw=true" width="600">
+</p>
+
+### Save and Load
+<p>
+<img src="https://github.com/DaveHJT/Bezier-Curve-Designer/blob/main/demo/Save%20and%20load.gif?raw=true" width="600">
+</p>
+
+### Credit
+All icons are drawn by myself.
 
 
-Credit:
-1. All icons are drawn by myself.
-2. All code copied from CS349 sample code are indicated with comments.
 
-I spent a lot of time to make this project seems perfect to me, hope you can enjoy it.
+## License
+[MIT License](https://github.com/DaveHJT/Bezier-Curve-Designer/blob/main/LICENSE) ©
+
+
+
+
 
 
