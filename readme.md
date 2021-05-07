@@ -22,10 +22,10 @@ Instruction: Click and drag to draw each segment; press ESC to stop drawing.
 </p>
 
 ### Selecting&Editing Tool
-Instruction: 1. Click on the curve to select the curve; drag the curve to move it; drag the vertices and control points to chage the shape. 
-2. When a curve is selected, the style of the curve can be changed by the bottom left  style palette.
-3. Press DELETE or BACK_SPACE to delete the selected curve.
-4. Press ESC to cancel selection.
+Instruction: 1. Click on the curve to select the curve; drag the curve to move it; drag the vertices and control points to chage the shape.  <br>
+2. When a curve is selected, the style of the curve can be changed by the bottom left  style palette. <br>
+3. Press DELETE or BACK_SPACE to delete the selected curve. <br>
+4. Press ESC to cancel selection. <br>
 <p>
 <img src="https://github.com/DaveHJT/Bezier-Curve-Designer/blob/main/demo/Editing.gif?raw=true" width="600">
 </p>
@@ -41,6 +41,7 @@ ps: If no curve is selected and it's using point type tool, it will directly swi
 </p>
 
 ### Save and Load
+Instruction: File -> save/load
 <p>
 <img src="https://github.com/DaveHJT/Bezier-Curve-Designer/blob/main/demo/Save%20and%20load.gif?raw=true" width="600">
 </p>
